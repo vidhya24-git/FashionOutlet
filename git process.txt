@@ -1,0 +1,7 @@
+-Install git tool in local
+-configure git details
+-initialize git
+-create/modify files
+-add files to staging area
+-commit files from staging area to local repository
+-push files to git master branch
